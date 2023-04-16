@@ -39,3 +39,5 @@
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=efd81d&height=120&section=footer"/>
+
+![snake gif](https://github.com/thercistenes/thercistenes/blob/output/github-contribution-grid-snake.svg)
